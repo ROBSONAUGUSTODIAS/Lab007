@@ -7,12 +7,14 @@
 
 Neste apredizado pode aprender
 
-Criação de projetos utilizando Azure Functions  
-Trafico Http 
-Dns 
-ACR
-mensageria com ServiceBus 
+Neste apredizado pode aprender
+Criação de projetos utilizando
+ Azure Functions
+Trafico Http
+ Dns
+ ACR
+ mensageria com ServiceBus 
 contrução bando de dados SQL 
 CosmosDB 
 EmailNotificstion
-KeyVault
+ KeyVault
